@@ -9,3 +9,5 @@ else:
 name = input("Введите имя: ")
 a1 = "Верно!" if name == "Олег" else "Вы не Олег!"
 print(a1)
+
+
